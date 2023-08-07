@@ -19,6 +19,7 @@ You can install these dependencies using `pip`, the Python package manager. Open
 
 ```bash
 pip install Flask pymongo pandas
+pip install openpyxl
 ```
 
 ### MongoDB Configuration
